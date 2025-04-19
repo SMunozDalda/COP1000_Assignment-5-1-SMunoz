@@ -7,3 +7,4 @@ while d > f:
     e = e - 1
 
 print(d, e, f)
+input("Press Enter to exit...")
