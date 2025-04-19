@@ -7,3 +7,4 @@ while a < c:
     b = b + c
 
 print(a, b, c)
+input("Press Enter to exit...")
