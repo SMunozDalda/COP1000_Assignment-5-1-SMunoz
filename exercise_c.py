@@ -5,3 +5,4 @@ while g < h:
     g = g + 1
 
 print(g, h)
+input("Press Enter to exit...")
